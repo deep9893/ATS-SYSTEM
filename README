@@ -1,0 +1,11 @@
+# ATS System
+
+# based on Job Description match your resume
+
+* python 3.10 
+
+* deployment done in stremlit
+
+* to Run file --> streamlit run ats.py
+
+* generative ai api key used
